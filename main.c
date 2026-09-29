@@ -2,6 +2,6 @@
 
 int main()
 {
-    printf("Hi, my name is RnO\n");
+    printf("Hello from feature!\n");
     printf("Hello, world!\n");
 }
